@@ -10,4 +10,4 @@ qtadmin adapter feishu/ etc
 
 以社区第二大脑的结构为基准做 API，以它为数据源。以名词为主。
 
-如果需要可以考虑增加一个 business/activity 命令，比如 qtdata 等。
+
